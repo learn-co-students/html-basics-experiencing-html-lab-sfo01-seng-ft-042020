@@ -1,0 +1,3 @@
+"Apples and Bananas"
+"Strawberries and Blueberries" 
+"Cheese and Milk"
